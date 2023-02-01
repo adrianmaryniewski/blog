@@ -16,7 +16,7 @@ export default {
                 text: 'Cores',
                 items: [
                     { text: 'Direction', link: '/Cores/Direction.md' },
-                    { text: 'Learning System', link: '/Cores/Learning System.md' },
+                    { text: 'Learning System', link: '/Cores/Ksiazki/Websecurity/http_requests.md' },
                     { text: 'Process', link: '/Cores/Process.md' },
                     { text: 'Knowing thyself', link: '/Cores/Knowing thyself.md' },
                     { text: 'Values', link: '/Cores/Values.md' },
