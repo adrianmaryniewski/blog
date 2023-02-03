@@ -1,4 +1,4 @@
-[Nagłówki HTTP](/docs/Websecurity/Nagłówki%20HTTP)
+[Nagłówki HTTP](../docs/Websecurity/Nagłówki%20HTTP)
 
 
 
