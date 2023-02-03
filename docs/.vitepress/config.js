@@ -1,66 +1,24 @@
-import { defineConfig, type DefaultTheme } from 'vitepress'
-
-const sidebar: DefaultTheme.Config['sidebar'] = {
-    '/': [
-        {
-            text: 'Frontmatter',
-            collapsed: false,
-            items: [
-                {
-                    text: 'Multiple Levels Outline',
-                    link: '/frontmatter/multiple-levels-outline'
-                }
-            ]
-        },
-        {
-            text: '& &#60;Text Literals &> <code>code</code>',
-            items: [
-                {
-                    text: '& &#60;Test Page &> <code>code</code>',
-                    link: '/text-literals/'
-                }
-            ]
-        },
-        {
-            text: 'Static Data',
-            items: [
-                {
-                    text: 'Test Page',
-                    link: '/static-data/data'
-                }
-            ]
-        },
-        {
-            text: 'Multi Sidebar Test',
-            items: [
-                {
-                    text: 'Test Page',
-                    link: '/multi-sidebar/'
-                }
-            ]
-        }
-    ],
-    '/multi-sidebar/': [
-        {
-            text: 'Multi Sidebar',
-            items: [
-                {
-                    text: 'Test Page',
-                    link: '/multi-sidebar/'
-                },
-                {
-                    text: 'Back',
-                    link: '/'
-                }
-            ]
-        }
-    ]
-}
-
-export default defineConfig({
-    title: 'Example',
-    description: 'An example app using VitePress.',
+module.exports =  {
+    base: '/',
+    title: 'maryniewski.pl',
+    description: 'The quieter you become, the more you can hear.',
+    head: [],
     themeConfig: {
-        sidebar
+        sidebar: [
+            {
+                text: 'Start',
+                items: [
+                    { text: 'Start here', link: '/' }
+                ]
+            },
+            {
+                text: 'Książki',
+                items: [
+                    { text: 'Websecurity', link: '/Websecurity/Notatki.md' },
+                    { text: 'Websec', link: '/Websecurity/Nagłówki HTTP.md' },
+                    { text: 'Websec2', link: '/Websecurity/XSS - Cross-Site Scripting.md' },
+                ]
+            },
+        ]
     }
-})
+}
