@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0178182e1a6be6b2",
+            "id": "42d77f5742e2ae85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
-                "mode": "source",
+                "file": "docs/Cores/Ksiazki/Websecurity/Notatki.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 307.5
   },
   "right": {
     "id": "1e1bcd5c5fcaa492",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Cores/Ksiazki/Websecurity/Notatki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Cores/Ksiazki/Websecurity/Notatki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/Cores/Ksiazki/Websecurity/Notatki.md"
               }
             }
           }
@@ -146,13 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0178182e1a6be6b2",
+  "active": "42d77f5742e2ae85",
   "lastOpenFiles": [
+    "docs/Cores/Ksiazki/Websecurity/Nagłówki HTTP.md",
+    "docs/Cores/Ksiazki/Websecurity/Notatki.md",
+    "docs/Cores/Ksiazki/Websecurity/XSS - Cross-Site Scripting.md",
+    "docs/index.md",
     "docs/Cores/Książki/Websecurity/XSS - Cross-Site Scripting.md",
     "docs/Cores/Książki/Websecurity/Nagłówki HTTP.md",
     "README.md",
     "docs/Cores/Książki/48 Laws of Power.md",
-    "docs/Cores/The Laws of Power.md",
-    "docs/index.md"
+    "docs/Cores/The Laws of Power.md"
   ]
 }

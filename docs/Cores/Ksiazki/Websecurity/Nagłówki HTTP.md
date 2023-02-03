@@ -31,7 +31,7 @@ Zakładka HEADERS w narzędziu do weryfikacji nagłówków HTTP jest najbardziej
 
 Ponadto, narzędzie posiada również zakładki PREVIEW, RESPONSE, COOKIES i TIMING, które prezentują odpowiednio podgląd witryny, pełny kod źródłowy strony, podsumowanie cookies powiązanych z witryną wraz z obecnymi flagami oraz wydajność i szybkość działania strony.
 
----
+
 
 
 ## Wybrane nagłówki HTTP a ich wpływ na bezpieczeństwo
