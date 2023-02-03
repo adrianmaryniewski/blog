@@ -15,11 +15,11 @@ export default {
             {
                 text: 'Cores',
                 items: [
-                    { text: 'Direction', link: '/Cores/Direction.md' },
-                    { text: 'Notatki', link: '/Cores/Ksiazki/Websecurity/Notatki.md' },
-                    { text: 'Process', link: '/Cores/Process.md' },
-                    { text: 'Knowing thyself', link: '/Cores/Knowing thyself.md' },
-                    { text: 'Values', link: '/Cores/Values.md' },
+                    { text: 'Direction', link: '/Direction.md' },
+                    { text: 'Notatki', link: '/Websecurity/Notatki.md' },
+                    { text: 'Process', link: '/Process.md' },
+                    { text: 'Knowing thyself', link: '/Knowing thyself.md' },
+                    { text: 'Values', link: '/Values.md' },
                 ]
             },
         ]
