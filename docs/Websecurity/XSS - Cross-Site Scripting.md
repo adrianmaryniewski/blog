@@ -8,7 +8,7 @@ Podatności typu XSS najczęściej pojawiają się w aplikacjach, gdy w kodzie H
 ```
 <marquee>test</marquee>
 ```
-
+---
 
 
 
