@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 236.5
   },
   "right": {
     "id": "1e1bcd5c5fcaa492",
@@ -148,15 +148,15 @@
   },
   "active": "42d77f5742e2ae85",
   "lastOpenFiles": [
-    "docs/Cores/Ksiazki/Websecurity/Notatki.md",
-    "docs/Websecurity/XSS - Cross-Site Scripting.md",
+    "docs/Websecurity/Notatki.md",
     "docs/Websecurity/Nagłówki HTTP.md",
+    "docs/Websecurity/XSS - Cross-Site Scripting.md",
+    "docs/index.md",
+    "docs/Cores/Ksiazki/Websecurity/Notatki.md",
     "README.md",
     "article.md",
-    "docs/index.md",
     "docs/Cores/Książki/Websecurity/XSS - Cross-Site Scripting.md",
     "docs/Cores/Książki/Websecurity/Nagłówki HTTP.md",
-    "docs/Cores/Książki/48 Laws of Power.md",
-    "docs/Cores/The Laws of Power.md"
+    "docs/Cores/Książki/48 Laws of Power.md"
   ]
 }

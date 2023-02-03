@@ -13,13 +13,9 @@ export default {
                 ]
             },
             {
-                text: 'Cores',
+                text: 'Książki',
                 items: [
-                    { text: 'Direction', link: '/Direction.md' },
-                    { text: 'Notatki', link: '/Websecurity/Notatki.md' },
-                    { text: 'Process', link: '/Process.md' },
-                    { text: 'Knowing thyself', link: '/Knowing thyself.md' },
-                    { text: 'Values', link: '/Values.md' },
+                    { text: 'Websecurity', link: '/Websecurity/Notatki.md' },
                 ]
             },
         ]

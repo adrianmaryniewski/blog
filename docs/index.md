@@ -1,7 +1,3 @@
-# Hello, World!
+# Witaj!
 
-Witaj na moim blogu!
-
-Jeśli jesteś zainteresowany tematami związanymi z bezpieczeństwem w Internecie, technologią, książkami, czy biznesem online - to właściwe miejsce. Tutaj znajdziesz wszystko, czego potrzebujesz, aby zacząć swoją przygodę z tymi tematami. Przygotowałem dla Ciebie wiele interesujących artykułów, poradników i recenzji, które pomogą Ci w zrozumieniu tych tematów.
-
-Zapraszam Cię do odwiedzenia mojego bloga i czerpania z niego jak najwięcej korzyści.
+`Bezpieczeństwo aplikacji webowych, szeroko pojęta technologia, książki, czy biznes online - to wszystko będę opisywać. Tutaj znajdziesz wszystko, czego potrzebujesz, aby zacząć swoją przygodę z tymi tematami. Lista artykułów i notatek jest stale rozwijana i aktualizowana. Staram się pisać przystępnym językiem - jest coś jest niezrozumiałe, daj znać na adrian@maryniewski.pl`
