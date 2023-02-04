@@ -1,5 +1,5 @@
 export default {
-    base: '/adrianmaryniewski.github.io/blog/',
+    base: '/adrianmaryniewski.github.io/',
     title: 'maryniewski.pl',
     description: 'The quieter you become, the more you can hear.',
     head: [],
