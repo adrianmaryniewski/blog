@@ -1,5 +1,5 @@
 export default {
-    base: '/blog/',
+    base: '/',
     title: 'maryniewski.pl',
     description: 'The quieter you become, the more you can hear.',
     head: [],
