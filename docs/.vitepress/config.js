@@ -4,6 +4,7 @@ export default {
     description: 'The quieter you become, the more you can hear.',
     head: [],
     themeConfig: {
+        logo: '/assets/img/logo-symbol.svg',
         sidebar: [
             {
                 text: 'Start',

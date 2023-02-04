@@ -1,11 +1,2 @@
-*.log
-*.tgz
-.DS_Store
-.idea
-.temp
-.vite_opt_cache
-cache
-examples-temp
+.webstorm
 node_modules
-pnpm-global
-TODOs.md
