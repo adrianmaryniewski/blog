@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Websecurity/Notatki.md",
+                "file": "docs/Websecurity/Nagłówki HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Websecurity/Notatki.md",
+                "file": "docs/Websecurity/Nagłówki HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Websecurity/Notatki.md",
+                "file": "docs/Websecurity/Nagłówki HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Websecurity/Notatki.md"
+                "file": "docs/Websecurity/Nagłówki HTTP.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "42d77f5742e2ae85",
   "lastOpenFiles": [
-    "docs/Websecurity/XSS - Cross-Site Scripting.md",
-    "docs/Websecurity/Notatki.md",
-    "docs/Websecurity/Nagłówki HTTP.md",
     "README.md",
+    "docs/Websecurity/Nagłówki HTTP.md",
+    "docs/Websecurity/Notatki.md",
+    "docs/Websecurity/XSS - Cross-Site Scripting.md",
     "docs/index.md",
     "docs/Cores/Ksiazki/Websecurity/Notatki.md",
     "article.md",
