@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app.38c7a7f9.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Websecurity/Notatki.md"}'),o={name:"Websecurity/Notatki.md"};function r(s,c,n,i,p,_){return a(),e("div")}const f=t(o,[["render",r]]);export{m as __pageData,f as default};
